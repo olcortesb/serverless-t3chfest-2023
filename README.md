@@ -19,6 +19,8 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 - Google Cloud Functions: https://cloud.google.com/functions/quotas?hl=es-419
 - CloudFlare Workers: https://developers.cloudflare.com/workers/platform/limits/#:~:text=%E2%80%8B%E2%80%8B%20Worker%20size,project%20goals%20by%20contacting%20Cloudflare.
 
+#### Como resolver limite de 6 megas de AWS Lambda:
+- https://theburningmonk.com/2020/04/hit-the-6mb-lambda-payload-limit-heres-what-you-can-do/
 
 ### Diseño
 - Articulo diseño toyota/Aws: https://aws.amazon.com/es/blogs/architecture/toyota-connected-and-aws-design-and-deliver-collision-assistance-application/
@@ -26,9 +28,13 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 ### Costos
 
 ## NO quiero condimentos
+- CNFC landscape: https://landscape.cncf.io/ 
 - Knative: https://knative.dev/docs/
 - Firecraker: https://firecracker-microvm.github.io/
 - OpenFaas: https://www.openfaas.com/
 - Tanzu: https://tanzu.vmware.com/tanzu
 - Openwhisk: https://openwhisk.apache.org/
 - OpenShift: https://www.redhat.com/es/technologies/cloud-computing/openshift/try-it?sc_cid=7013a0000026OSAAA2&gclsrc=ds&gclsrc=ds
+
+## Herramientas de la presentacion:
+- QR: https://www.logodesign.net/qrcode-generator
