@@ -2,13 +2,16 @@
 Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo 2023)
 
 ## Por que de la charla:
+- Ley de la tricotomía: https://es.wikipedia.org/wiki/Ley_de_tricotom%C3%ADa
+
+## Condimentos:
+- El cuento de la Isla desconocida (José Saramago): https://www.uv.mx/blogs/lectores/files/2012/11/el-cuento-de-la-isla-desconocida.pdf
 - Google Trends: https://trends.google.es/trends/explore?date=all&q=serverless
 - Serverless Framework:
   Herramienta de infraestructura como codigo(IaC), fue una de las primeras en aparecer par serverless espesificamente.
     - https://www.serverless.com/
+- Serverless in 2012: https://readwrite.com/why-the-future-of-software-and-apps-is-serverless/ 
 
-
-## Condimentos:
 
 ### Limites
 
@@ -24,8 +27,16 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 
 ### Diseño
 - Articulo diseño toyota/Aws: https://aws.amazon.com/es/blogs/architecture/toyota-connected-and-aws-design-and-deliver-collision-assistance-application/
+#### IaC ( Infraestructura como codigo )
+- AWS CLI:https://aws.amazon.com/es/cli/
+- CDK:https://docs.aws.amazon.com/cdk/v2/guide/home.html
+- AWS SAM:https://aws.amazon.com/es/serverless/sam/
+- Terraform:https://www.terraform.io/
+- Serverless Framework: https://www.serverless.com/
+- Pulumi: https://www.pulumi.com/
 
 ### Costos
+- https://es.wikipedia.org/wiki/Watchmen
 
 ## NO quiero condimentos
 - CNFC landscape: https://landscape.cncf.io/ 
@@ -38,3 +49,11 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 
 ## Herramientas de la presentacion:
 - QR: https://www.logodesign.net/qrcode-generator
+- Google Trends: https://trends.google.es/trends/?geo=ES
+
+
+## Referencias a figuras e imagenes
+- https://cms.dm.uba.ar/academico/materias/2docuat2013/algebra_I/TeoricaAlgebra2013-Cap1.pdf
+- https://www.verygourmand.com/es/galletas-patatas-fritas/694-tata-josie-mini-pizzetta-tomate-oregano-180g-3760153840997.html
+
+
