@@ -27,6 +27,9 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 
 ### Diseño
 - Articulo diseño toyota/Aws: https://aws.amazon.com/es/blogs/architecture/toyota-connected-and-aws-design-and-deliver-collision-assistance-application/
+
+#### Tamaños:
+- Lambda layers: https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
 #### IaC ( Infraestructura como codigo )
 - AWS CLI:https://aws.amazon.com/es/cli/
 - CDK:https://docs.aws.amazon.com/cdk/v2/guide/home.html
@@ -37,6 +40,8 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 
 ### Costos
 - https://es.wikipedia.org/wiki/Watchmen
+- Que hay en nuestra cuenta de AWS Podcast: https://www.youtube.com/watch?v=Sh2nE7_-ews 
+- Cloud Insights: https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/CWL_QuerySyntax.html
 
 ## NO quiero condimentos
 - CNFC landscape: https://landscape.cncf.io/ 
