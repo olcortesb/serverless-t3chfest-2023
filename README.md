@@ -55,5 +55,5 @@ Notas, apuntes y referencias de la charla Serverless y sus condimentos. (2 Marzo
 ## Referencias a figuras e imagenes
 - https://cms.dm.uba.ar/academico/materias/2docuat2013/algebra_I/TeoricaAlgebra2013-Cap1.pdf
 - https://www.verygourmand.com/es/galletas-patatas-fritas/694-tata-josie-mini-pizzetta-tomate-oregano-180g-3760153840997.html
-
-
+- Historia de serverless: https://dashbird.io/blog/origin-of-serverless/
+- Serverless Lamp Stack: https://aws.amazon.com/es/blogs/compute/introducing-the-new-serverless-lamp-stack/
